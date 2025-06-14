@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Mac
+.DS_Store
+# Logs
+*.log
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Coverage reports
+.coverage
+# Pytest cache
+.pytest_cache/
