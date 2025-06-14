@@ -19,3 +19,6 @@ wheels/
 .coverage
 # Pytest cache
 .pytest_cache/
+
+# Environment variables
+.env
