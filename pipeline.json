@@ -1,0 +1,16 @@
+[
+  {
+    "name": "CopyPipeline_q82",
+    "id": "/subscriptions/4c4a7777-8d0c-4e94-8af2-7d5fafe10acf/resourceGroups/ADF-blob-20250614-Chuan/providers/Microsoft.DataFactory/factories/ADFQuickstartDemo-202506/pipelines/CopyPipeline_q82",
+    "type": "Microsoft.DataFactory/factories/pipelines",
+    "description": null,
+    "url": "https://adf.azure.com/en/authoring/pipeline/CopyPipeline_q82?factory=%2Fsubscriptions%2F4c4a7777-8d0c-4e94-8af2-7d5fafe10acf%2FresourceGroups%2FADF-blob-20250614-Chuan%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2FADFQuickstartDemo-202506"
+  },
+  {
+    "name": "TransformMovies",
+    "id": "/subscriptions/4c4a7777-8d0c-4e94-8af2-7d5fafe10acf/resourceGroups/ADF-blob-20250614-Chuan/providers/Microsoft.DataFactory/factories/ADFQuickstartDemo-202506/pipelines/TransformMovies",
+    "type": "Microsoft.DataFactory/factories/pipelines",
+    "description": null,
+    "url": "https://adf.azure.com/en/authoring/pipeline/TransformMovies?factory=%2Fsubscriptions%2F4c4a7777-8d0c-4e94-8af2-7d5fafe10acf%2FresourceGroups%2FADF-blob-20250614-Chuan%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2FADFQuickstartDemo-202506"
+  }
+]

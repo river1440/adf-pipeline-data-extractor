@@ -1,0 +1,14 @@
+[
+  {
+    "pipeline_name": "CopyPipeline_q82",
+    "activity_name": "Copy_q82",
+    "type": "Copy",
+    "description": null
+  },
+  {
+    "pipeline_name": "TransformMovies",
+    "activity_name": "DataFlow1",
+    "type": "ExecuteDataFlow",
+    "description": null
+  }
+]

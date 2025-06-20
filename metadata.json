@@ -1,0 +1,16 @@
+{
+  "pipelines": {
+    "CopyPipeline_q82": {
+      "owner": "alice@example.com",
+      "tags": ["Product", "ETL"],
+      "memo": "Handles raw user import from external vendor.",
+      "doc_url": "https://company-wiki.com/docs/pipelines/user-import"
+    },
+    "DailySync_Orders": {
+      "owner": "bob@example.com",
+      "tags": ["Platform", "Sync"],
+      "memo": "Daily sync from on-prem orders DB to Azure Synapse.",
+      "doc_url": "https://company-wiki.com/docs/pipelines/daily-orders"
+    }
+  }
+}
